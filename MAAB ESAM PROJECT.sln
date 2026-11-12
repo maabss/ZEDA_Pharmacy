@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ZEDA_Pharmacy_WebForms", "..\..\..\..\Downloads\ZEDA_Pharmacy_WebForms_VS2015 (1)\ZEDA_Pharmacy_WebForms\", "{35966D8C-2F7B-4868-A30A-B702761C713B}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_34487"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Downloads\ZEDA_Pharmacy_WebForms_VS2015 (1)\ZEDA_Pharmacy_WebForms\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_34487\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_34487"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Downloads\ZEDA_Pharmacy_WebForms_VS2015 (1)\ZEDA_Pharmacy_WebForms\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_34487\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "34487"
+		SlnRelativePath = "..\..\..\..\Downloads\ZEDA_Pharmacy_WebForms_VS2015 (1)\ZEDA_Pharmacy_WebForms\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35966D8C-2F7B-4868-A30A-B702761C713B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35966D8C-2F7B-4868-A30A-B702761C713B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
